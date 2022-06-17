@@ -18,9 +18,6 @@
     },
 
     "config": {
-        "platform": {
-            "php": "7.2"
-        },
         "allow-plugins": {
             "composer/package-versions-deprecated": true
         }
@@ -29,10 +26,10 @@
     "require": {
         "ext-json": "*",
         "ext-curl": "*",
-        "php": ">=7.2",
-        "symfony/serializer": "^4.4",
-        "symfony/property-access": "^4.4",
-        "symfony/property-info": "^4.4"
+        "php": ">=8.0",
+        "symfony/serializer": "^5.4",
+        "symfony/property-access": "^5.4",
+        "symfony/property-info": "^5.4"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.5",
