@@ -1,5 +1,5 @@
 {
-    "name": "wiremock-php/wiremock-php",
+    "name": "shiishiji/wiremock-php",
     "description": "PHP API for WireMock JSON interface",
     "homepage": "http://github.com/rowanhill/wiremock-php",
     "license": "MIT",
